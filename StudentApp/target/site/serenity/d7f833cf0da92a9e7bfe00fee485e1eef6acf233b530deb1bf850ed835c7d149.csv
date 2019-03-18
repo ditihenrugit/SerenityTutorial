@@ -1,0 +1,3 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"Tags test","This is to test negative get request","SUCCESS","2019-03-16T23:02:56.916+05:30[Asia/Calcutta]","0.0","8.53"
+"Tags test","This is to verify positive response","SUCCESS","2019-03-16T23:03:07.237+05:30[Asia/Calcutta]","0.0","0.69"
